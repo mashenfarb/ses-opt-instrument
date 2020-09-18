@@ -1,4 +1,4 @@
-function exp_damage = objective5(x, d1, d2, r1, r2, p, q, s1, s2)
+function exp_damage = objective(x, d1, d2, r1, r2, p, q, s1, s2)
 
 % Changes:  Same as 4, but "race" is based on Poisson process
 

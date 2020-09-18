@@ -1,5 +1,5 @@
 
-function exp_damage = objective5_homogControls(x, d1, d2, r1, r2, p, q, s1, s2)
+function exp_damage = objective_homogControls(x, d1, d2, r1, r2, p, q, s1, s2)
 
 % Changes:  same "race" as in 3, but with fixed OR statement to use
 % mutually exclusive events
